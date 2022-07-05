@@ -13,7 +13,7 @@
   "author": "Gustavo Eklund <gustavo.eklund@esattodigital.com>",
   "license": "MIT",
   "dependencies": {
-
+    "typeorm": "^0.3.7"
   },
   "devDependencies": {
     "typescript": "^4.7.4"
